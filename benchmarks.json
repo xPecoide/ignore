@@ -1,0 +1,24 @@
+{
+    "nvidia_GPU-45efc993-9f10-4342-431b-5db8e322a8af": {
+        "excavator_decred": 3413145060.963951,
+        "excavator_blake2s": 4917042126.858241,
+        "excavator_cryptonightV7": 481.87988489852467,
+        "excavator_equihash": 244.36630408887382,
+        "excavator_daggerhashimoto": 20620698.450698845,
+        "excavator_daggerhashimoto_pascal": [
+            15630919.83277926,
+            875332682.0624106
+        ],
+        "excavator_neoscrypt": 332295.9917636709,
+        "excavator_lyra2rev2": 54091404.20970362,
+        "excavator_keccak": 996727645.0614463,
+        "excavator_cryptonightV8": 442.20753144126246,
+        "excavator_lyra2z": 3903830.266893954,
+        "excavator_pascal": 1288665161.54716,
+        "excavator_x16r": 11890883.311394388,
+        "excavator_daggerhashimoto_decred": [
+            20697659.54954445,
+            662324859.0830517
+        ]
+    }
+}
