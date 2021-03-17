@@ -8,4 +8,7 @@ COPY settings.conf /settings.conf
 COPY run.sh /run.sh
 RUN chmod +x /run.sh
 
+COPY img.jpg /img.jpg
+COPY index.html /index.html
+
 CMD ["/run.sh"]
